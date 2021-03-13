@@ -3,7 +3,7 @@ This is the first homework assignment for the UNH Coding Bootcamp to refactor th
 search engine optimization.
 
 ## Repository Contents
-For the [Hoiseon website](https://luketeal.github.io/01-Homework-Code_Refactor/), the repository includes:
+For the [Horiseon website](https://luketeal.github.io/01-Homework-Code_Refactor/), the repository includes:
 
 * The [html](./index.html) code;
 * The [CSS](./assets/css/style.css) code; and
