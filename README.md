@@ -1,9 +1,8 @@
-# 01-Homework-Code_Refactor
-This is the first homework assignment for the UNH Coding Bootcamp to refactor the given codebase for accessibility and 
-search engine optimization.
+# Accessibility_Code_Refactor
+This project is to refactor the given codebase for accessibility and search engine optimization.
 
 ## Repository Contents
-For the [Horiseon website](https://luketeal.github.io/01-Homework-Code_Refactor/), the repository includes:
+For the [Horiseon website](https://luketeal.github.io/Accessibility_Code_Refactor/), the repository includes:
 
 * The [html](./index.html) code;
 * The [CSS](./assets/css/style.css) code; and
